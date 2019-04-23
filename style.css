@@ -1,0 +1,40 @@
+.container {
+  margin: 50px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: #292824;
+}
+
+a {
+  color: #292824;
+}
+
+.block {
+  margin-bottom: 30px;
+}
+
+.title {
+  /**/
+}
+
+.content {
+  /**/
+}
+
+.social {
+  /**/
+}
+
+a i {
+  color: darkgrey;
+}
+
+a i:hover {
+  color: #292824;
+}
+
+.social-icon {
+  margin: 0px 10px 0px 10px;
+}
